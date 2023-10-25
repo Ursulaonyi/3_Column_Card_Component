@@ -1,0 +1,60 @@
+body{
+    background-color: hsl(0, 0%, 95%);
+}
+#parent-block{
+    border-radius: 10px;
+    display: flex;
+    margin: 100px 200px 0px 250px;
+}
+#block-seden-id{
+background-color:hsl(31, 77%, 52%);
+color: hsl(0, 0%, 95%);
+width:150px;
+height: 300px ;
+padding: 50px 50px 0px 50px;
+border-radius: 10px 0px 0px 10px;
+}
+#block-suvs-id{
+    background-color: hsl(184, 100%, 22%);
+    color: hsl(0, 0%, 95%);
+    height: 300px;
+    width: 150px;
+    padding: 50px 50px 0px 50px;
+}
+#block-luxury-id{
+    background-color: hsl(179, 100%, 13%);
+    color: hsl(0, 0%, 95%);
+    height: 300px;
+    width: 150px;
+    padding: 50px 50px 0px 50px;
+    border-radius: 0px 10px 10px 0px;
+}
+.icon-image{
+    margin-bottom: 20px;
+    width: 50px;
+}
+.blockheading{
+    font-weight:bold;
+    font-size: 25px;
+}
+.block-description{
+    font-size: 13px;
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-bottom: 60px;
+}
+.learn-more{
+    background-color: hsl(0, 0%, 95%);
+    padding: 10px 25px 10px 25px;
+    font-size: 12px;
+    border-radius: 20px;
+    text-decoration:none;
+}
+.suv-learn-more{
+    color: hsl(184, 100%, 22%);
+}
+.seden-learn-more{
+   color: hsl(31, 77%, 52%);
+}
+.luxury-learn-more{
+    color: hsl(179, 100%, 13%);
+ }
